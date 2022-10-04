@@ -8,7 +8,7 @@ Esta é Loja Virtual (e-Commerce) da Binario. Este loja vende componentes elect�
 **Link do repositotio do projecto no GitHub:** [https://github.com/Jay-Ubisse/portal-fct](https://github.com/Jay-Ubisse/portal-fct)
 
 O projecto deste repositório conta com a colaboração de: 
-**Miro Bmc** - [mirobmc](https://github.com/mirobmc)
+**Belmiro Cossa** - [mirobmc](https://github.com/mirobmc)
 
 
 
