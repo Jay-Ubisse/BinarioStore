@@ -1,6 +1,6 @@
 # Binario Store 
 
-Esta é Loja Virtual (e-Commerce) da Binario. Este loja vende componentes electónicos como Microcontroladores, micropocessadores, circuitos integrados e componentes discretos (como resistores e leds).
+Esta é a Loja Virtual (e-Commerce) da Binario. Esta loja ocupa-se na venda de componentes electónicos como Microcontroladores, micropocessadores, circuitos integrados e componentes discretos (como resistores e leds).
 
 ##### Projecto criado por:
 **Jay Ubisse** - [Jay-Ubisse](https://github.com/Jay-Ubisse)
