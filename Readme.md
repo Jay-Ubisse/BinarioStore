@@ -22,15 +22,16 @@ O projecto deste repositório conta com a colaboração de:
 
 **[Visual Studio Code](https://code.visualstudio.com/)**
 
-### Linguagens de Programação
+### Front-End
 
 - HTML
 - TailwindCSS
 - JavaScript (e suas bibliotecas)
+
+### Front-End
 - PHP
 
 ### Base de Dados
-
 - MySQL
 
 ### Layout
