@@ -98,6 +98,14 @@
                 </div>
             </div>
         </section>
+        <section id="brands" class="w-[98%] mt-3 mx-auto bg-white p-1 h-fit">
+            <h1 class="text-blue-binario w-fit mx-auto font-bold text-lg py-4">Marcas</h1>
+            <div id="products" class="flex laptop:flex-row laptop:justify-between mx-5">
+                <div class="laptop:w-[200px] laptop:h-[230px]">
+                    <img src="./assets/img/brands/arduino.svg">
+                </div>
+            </div>
+        </section>
     </main>
 </body>
 </html>

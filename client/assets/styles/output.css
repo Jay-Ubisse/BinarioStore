@@ -793,6 +793,10 @@ video {
     height: 200px;
   }
 
+  .laptop\:h-\[230px\] {
+    height: 230px;
+  }
+
   .laptop\:w-\[600px\] {
     width: 600px;
   }
