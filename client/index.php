@@ -53,6 +53,51 @@
                 <a href="#">Ver tudo</a>
             </div>
         </section>
+        <section id="category" class="w-[98%] mt-3 mx-auto bg-white p-1 h-fit">
+            <h1 class="text-blue-binario w-fit mx-auto font-bold text-lg py-4">Compre por categoria</h1>
+            <div id="products" class="grid laptop:grid-cols-5 mx-5">
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 1</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 2</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 3</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 4</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 5</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 6</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 7</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 8</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 9</span>
+                </div>
+                <div class="flex flex-col items-center justify-center laptop:w-[250px] laptop:h-[250px]">
+                    <div class="bg-gray-binario rounded-full laptop:w-[200px] laptop:h-[200px]"></div>
+                    <span class="text-black text-base font-semibold">Catrgoria 10</span>
+                </div>
+            </div>
+        </section>
     </main>
 </body>
 </html>
