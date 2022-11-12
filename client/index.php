@@ -106,6 +106,14 @@
                 </div>
             </div>
         </section>
+        <section id="newsletter" class="w-[98%] mt-3 mx-auto bg-blue-binario p-1 h-fit">
+            <h1 class="text-white w-fit mx-auto font-bold text-lg py-4">Newsletter</h1>
+            <p class="text-white w-fit mx-auto font-ligth text-xs pb-4">Assine para receber novidades e ofertas especiais</p>
+            <div class="h-fit  w-fit mx-auto laptop:flex laptop:flex-row laptop:gap-0 laptop:h-12">
+                <input type="search" name="search" size="60" class="bg-gray-binario laptop:rounded-tl-3xl laptop:rounded-bl-3xl laptop:focus:outline-blue-binario laptop:px-2 text-xs text-slate-800">
+                <button class="bg-black text-white relative -left-10 laptop:px-20 laptop:rounded-3xl">Assinar</button>
+            </div>
+        </section>
     </main>
 </body>
 </html>
