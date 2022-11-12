@@ -41,6 +41,18 @@
                 <a href="#">Ver tudo</a>
             </div>
         </section>
+        <section id="bestsellers" class="w-[98%] mt-3 mx-auto bg-white p-1 h-fit">
+            <h1 class="text-blue-binario w-fit mx-auto font-bold text-lg py-4">Mais vendidos</h1>
+            <div id="products" class="flex laptop:flex-row laptop:justify-between mx-5">
+                <div class="laptop:w-[300px] laptop:h-[320px] border border-blue-binario"></div>
+                <div class="laptop:w-[300px] laptop:h-[320px] border border-blue-binario"></div>
+                <div class="laptop:w-[300px] laptop:h-[320px] border border-blue-binario"></div>
+                <div class="laptop:w-[300px] laptop:h-[320px] border border-blue-binario"></div>
+            </div>
+            <div class="bg-blue-binario w-fit mx-auto font-regular text-white text-base py-1 px-10 my-4 rounded-2xl">
+                <a href="#">Ver tudo</a>
+            </div>
+        </section>
     </main>
 </body>
 </html>
