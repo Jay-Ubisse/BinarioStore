@@ -8,10 +8,29 @@ module.exports = {
       'laptop': '768px',
       'desktop': '1024px',
     },
-    extend: {},
     fontFamily: {
       'inter': 'Inter, sans-serif',
-    }
+    },
+    fontSize: {
+      '2xs': ['14px', '20px'],
+      xs: ['16px', '24px'],
+      base: ['20px', '28px'],
+      lg: ['24px', '32px'],
+    },
+    fontWeight: {
+      thin: 100,
+      extralight: 200,
+      ligth: 300,
+      regular: 400,
+      semibold: 600,
+      bold: 700,
+     },
+    extend: {
+      colors: {
+        'blue-binario': '#023E8A',
+        'gray-binario': '#D9D9D9',
+      },
+    },
   },
   plugins: [],
 }
