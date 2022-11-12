@@ -36,4 +36,4 @@ O projecto deste repositório conta com a colaboração de:
 
 ### Layout
 
-**Link para o layout no Figma:** - 
+**Link para o layout no Figma:** - [https://www.figma.com/file/Ok00jzNC4Io5ZKL0gxvVZC/Binario-Store?node-id=3%3A4](https://www.figma.com/file/Ok00jzNC4Io5ZKL0gxvVZC/Binario-Store?node-id=3%3A4)
