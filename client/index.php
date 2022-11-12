@@ -17,5 +17,18 @@
             include './components/header.php';
         ?>
     </header>
+    <main>
+        <section id="slides" class="w-full">
+            <img src="./assets/img/slides/slide-1.png" class="w-full">
+        </section>
+        <section id="offers" class="w-[98%] mt-3 mx-auto flex justify-around laptop:flex-row ">
+            <div class="bg-[#0F4C5C] flex flex-row justify-center items-center text-lg text-white font-bold laptop:w-[600px] laptop:h-[400px] ">
+                <h1>Oferta 1</h1>
+            </div>
+            <div class="bg-[#9A031E] flex flex-row justify-center items-center text-lg text-white font-bold laptop:w-[600px] laptop:h-[400px]">
+                <h1>Oferta 2</h1>
+            </div>
+        </section>
+    </main>
 </body>
 </html>

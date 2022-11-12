@@ -11,7 +11,7 @@
             <span>Ligue-nos +258 84 883 9501</span>
         </div>
     </section>
-    <section class="bg-white laptop:pl-4 laptop:pr-6 laptop:py-3 laptop:flex laptop:flex-row laptop:justify-between"> 
+    <section class="bg-white laptop:pl-4 laptop:pr-12 laptop:py-3 laptop:flex laptop:flex-row laptop:justify-between"> 
         <div class="laptop:flex laptop:flex-row laptop:items-center laptop:gap-12">
             <div>
                 <h1 class="laptop:text-lg font-regular"><span class="text-blue-binario">Binario <span class="text-white bg-blue-binario rounded-lg px-3 py-1 text-base">Store</span></h1>
