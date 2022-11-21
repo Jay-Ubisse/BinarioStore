@@ -5,10 +5,7 @@
             <span><i class="fa-solid fa-truck-fast"></i></span>
             <span class="ml mobile:text-2xs">Entregas grátis para pedidos acima de 1.000,00 MT</span>
         </div>
-        <div class=" underline 
-                    flex flex-row gap-4
-                    mobile:hidden
-        ">
+        <div class=" underline flex flex-row gap-4">
             <span><a href="#">Sobre</a></span>
             <span><a href="#">Contacto</a></span>
             <span><a href="#">Central de ajuda</a></span>
@@ -43,7 +40,7 @@
     <section class="bg-gray-binario h-fit px-8 py-3 text-xs font-regular">
         <ul class="flex flex-row justify-between">
             <li class="hover:text-blue-binario"><a href="">Pagina Inicial</a></li>
-            <li class="hover:text-blue-binario"><a href="">Microcontroladores</a></li>
+            <li class="hover:text-blue-binario"><a href="./microcontrollers/">Microcontroladores</a></li>
             <li class="hover:text-blue-binario"><a href="">Contadores e Registradores</a></li>
             <li class="hover:text-blue-binario"><a href="">Displays e LED's</a></li>
             <li class="hover:text-blue-binario"><a href="">Acessorios Arduino</a></li>
