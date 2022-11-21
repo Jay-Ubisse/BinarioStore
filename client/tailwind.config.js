@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     screens: {
       'mobile': '320px',
-      'tablet': '415px',
-      'laptop': '768px',
+      'tablet': '481px',
+      'laptop': '1024px',
       'desktop': '1024px',
     },
     fontFamily: {
